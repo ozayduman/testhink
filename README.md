@@ -1,7 +1,7 @@
 # TESTHINK
 This Project aims to demonstrate how testing can be done correctly.
 ### Reference Documentation
-For further reference, please consider the following slides:
+For further reference, please consider the slides
 * [Software Testing Concepts]
 * [Unit & Integration Testing]
 * [How to write hard to test code]
